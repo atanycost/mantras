@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/mantras/static/css/main.3c00150a.css",
-    "main.js": "/mantras/static/js/main.73e9cc80.js",
+    "main.js": "/mantras/static/js/main.6e975b21.js",
     "static/js/453.09562910.chunk.js": "/mantras/static/js/453.09562910.chunk.js",
+    "static/media/Hanuman.jpeg": "/mantras/static/media/Hanuman.e7adba22a49e42a5ef9d.jpeg",
     "index.html": "/mantras/index.html",
     "main.3c00150a.css.map": "/mantras/static/css/main.3c00150a.css.map",
-    "main.73e9cc80.js.map": "/mantras/static/js/main.73e9cc80.js.map",
+    "main.6e975b21.js.map": "/mantras/static/js/main.6e975b21.js.map",
     "453.09562910.chunk.js.map": "/mantras/static/js/453.09562910.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c00150a.css",
-    "static/js/main.73e9cc80.js"
+    "static/js/main.6e975b21.js"
   ]
 }
