@@ -1,0 +1,51 @@
+p {
+  font-size: 1.5rem;
+  line-height: 3rem;
+
+  margin: 5rem;
+  letter-spacing: 0.08rem;
+  word-spacing: 0.7rem;
+  text-align: center;
+}
+
+br{
+ margin: 3rem;
+}
+
+.mainCont{
+    width: 66%;
+}
+
+
+@media (max-width: 1024px) {
+    p {
+      font-size: 1.25rem;
+      line-height: 2.5rem;
+      margin: 3rem;
+      word-spacing: 0.5rem;
+    }
+  
+    br {
+      margin: 2rem;
+    }
+    .mainCont{
+        width: 80%;
+    }
+    
+  }
+  
+  @media (max-width: 640px) {
+    p {
+      font-size: 1rem;
+      line-height: 2rem;
+      margin: 1.5rem;
+      word-spacing: 0.3rem;
+    }
+  
+    br {
+      margin: 1rem;
+    }
+    .mainCont{
+        width: 90%;
+    }
+  }
