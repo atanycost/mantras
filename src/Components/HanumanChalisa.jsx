@@ -1,13 +1,13 @@
 import React from "react";
 import './HanumanChalisa.css';
-
+import pic from './Hanuman.jpeg';
 const HanumanChalisa = () => {
   return (
     <div className=" flex flex-col justify-center items-center  m-auto mainCont">
      <h1 className=" font-bold m-2 text-lg text-orange-600">
         श्री हनुमान चालीसा
       </h1>
-      <img src="/image.png" alt="Sri Hanuman Ji"  className="w-full sm:w-1/2 lg:w-1/3"/>
+      <img src={pic} alt="Sri Hanuman Ji"  className="w-full sm:w-1/2 lg:w-1/3"/>
       <div className=" mb-10 w-full">
         <h1 className=" font-bold m-2 text-lg text-red-500"> दोहा :</h1>
         <p  >
