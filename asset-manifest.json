@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mantras/static/css/main.3c00150a.css",
+    "main.js": "/mantras/static/js/main.73e9cc80.js",
+    "static/js/453.09562910.chunk.js": "/mantras/static/js/453.09562910.chunk.js",
+    "index.html": "/mantras/index.html",
+    "main.3c00150a.css.map": "/mantras/static/css/main.3c00150a.css.map",
+    "main.73e9cc80.js.map": "/mantras/static/js/main.73e9cc80.js.map",
+    "453.09562910.chunk.js.map": "/mantras/static/js/453.09562910.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c00150a.css",
+    "static/js/main.73e9cc80.js"
+  ]
+}
